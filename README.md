@@ -22,11 +22,9 @@ into these annotations
 
 ![](https://miro.medium.com/max/3600/1*kGvS_5DgueggsDkGfm1PBA.png)
 
-The tutorial how to convert rectangles into keypoints is here:
-https://medium.com/@alexppppp/how-to-annotate-keypoints-using-roboflow-9bc2aa8915cd
+The tutorial how to convert rectangles into keypoints is [here](https://medium.com/@alexppppp/how-to-annotate-keypoints-using-roboflow-9bc2aa8915cd)
 
-Also, the tutorial how to train a custom keypoint detection model is here:
-https://medium.com/@alexppppp/how-to-train-a-custom-keypoint-detection-model-with-pytorch-d9af90e111da
+Also, the tutorial how to train a custom keypoint detection model is [here](https://medium.com/@alexppppp/how-to-train-a-custom-keypoint-detection-model-with-pytorch-d9af90e111da)
 
 ---
 
@@ -37,6 +35,8 @@ https://medium.com/@alexppppp/how-to-annotate-keypoints-using-roboflow-9bc2aa891
 ---
 
 ### Important!
+
+This repository contains two folders.
 
 [glue_tubes](glue_tubes) is a folder with the original dataset (only images). This dataset should be labeled in Roboflow. To save your time, you don't need to label this dataset by yourself. It's already labeled and is placed in [Glue Tubes Keypoints Project.v1-version-1.yolov5pytorch](Glue%20Tubes%20Keypoints%20Project.v1-version-1.yolov5pytorch) folder.
 
