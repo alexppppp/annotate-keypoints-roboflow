@@ -1,17 +1,6 @@
 # How to Annotate Keypoints Using Roboflow
 
-**Detailed explanation:**  
-https://medium.com/@alexppppp/how-to-annotate-keypoints-using-roboflow-9bc2aa8915cd  
-
----
-
-[glue_tubes](glue_tubes) is a folder with the original dataset (only images). This dataset should be labeled in Roboflow. To save your time, you don't need to label this dataset by yourself. It's already labeled and is placed in [Glue Tubes Keypoints Project.v1-version-1.yolov5pytorch](Glue%20Tubes%20Keypoints%20Project.v1-version-1.yolov5pytorch) folder.
-
-[Glue Tubes Keypoints Project.v1-version-1.yolov5pytorch](Glue%20Tubes%20Keypoints%20Project.v1-version-1.yolov5pytorch) is a folder with Roboflow-labeled dataset (imaged and txt-files with coordinates of rectangles). Rectangle labels in txt-files are ready to be transformed into keypoints and bounding boxes.
-
----
-
-**Intro**  
+### Intro
 
 Object detection is a powerful tool in hands of computer vision engineer.
 
@@ -38,3 +27,14 @@ https://medium.com/@alexppppp/how-to-annotate-keypoints-using-roboflow-9bc2aa891
 
 Also, the tutorial how to train a custom keypoint detection model is here:
 https://medium.com/@alexppppp/how-to-train-a-custom-keypoint-detection-model-with-pytorch-d9af90e111da
+
+---
+
+**Detailed explanation:**  
+https://medium.com/@alexppppp/how-to-annotate-keypoints-using-roboflow-9bc2aa8915cd  
+
+---
+
+[glue_tubes](glue_tubes) is a folder with the original dataset (only images). This dataset should be labeled in Roboflow. To save your time, you don't need to label this dataset by yourself. It's already labeled and is placed in [Glue Tubes Keypoints Project.v1-version-1.yolov5pytorch](Glue%20Tubes%20Keypoints%20Project.v1-version-1.yolov5pytorch) folder.
+
+[Glue Tubes Keypoints Project.v1-version-1.yolov5pytorch](Glue%20Tubes%20Keypoints%20Project.v1-version-1.yolov5pytorch) is a folder with Roboflow-labeled dataset (imaged and txt-files with coordinates of rectangles). Rectangle labels in txt-files are ready to be transformed into keypoints and bounding boxes.
