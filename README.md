@@ -30,7 +30,7 @@ https://medium.com/@alexppppp/how-to-train-a-custom-keypoint-detection-model-wit
 
 ---
 
-### Detailed explanation
+## Detailed explanation
 https://medium.com/@alexppppp/how-to-annotate-keypoints-using-roboflow-9bc2aa8915cd  
 
 ---
