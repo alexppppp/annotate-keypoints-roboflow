@@ -1,6 +1,6 @@
 # How to Annotate Keypoints Using Roboflow
 
-## Intro
+### Intro
 
 Object detection is a powerful tool in hands of computer vision engineer.
 
@@ -30,10 +30,13 @@ https://medium.com/@alexppppp/how-to-train-a-custom-keypoint-detection-model-wit
 
 ---
 
-## Detailed explanation
+### Detailed explanation
+
 https://medium.com/@alexppppp/how-to-annotate-keypoints-using-roboflow-9bc2aa8915cd  
 
 ---
+
+### Important!
 
 [glue_tubes](glue_tubes) is a folder with the original dataset (only images). This dataset should be labeled in Roboflow. To save your time, you don't need to label this dataset by yourself. It's already labeled and is placed in [Glue Tubes Keypoints Project.v1-version-1.yolov5pytorch](Glue%20Tubes%20Keypoints%20Project.v1-version-1.yolov5pytorch) folder.
 
