@@ -1,6 +1,6 @@
 # How to Annotate Keypoints Using Roboflow
 
-### Intro
+## Intro
 
 Object detection is a powerful tool in hands of computer vision engineer.
 
