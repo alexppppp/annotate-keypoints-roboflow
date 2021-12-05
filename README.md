@@ -12,7 +12,7 @@ I was interested to get to know how to trainin a keypoint detection model, Keypo
 
 Glue tube was the ideal candidate to become such object. So, I've made 134 photos and annotated them.
 
-Roboflow doesn't provide keypoint annotation functionality, but this task can be easily done by annotating keypoints with small rectangles.
+[Roboflow](https://roboflow.com/) doesn't provide keypoint annotation functionality, but this task can be easily done by annotating keypoints with small rectangles.
 
 With help of a custom script, we can convert these annotations
 
@@ -22,9 +22,9 @@ into these annotations
 
 ![](https://miro.medium.com/max/3600/1*kGvS_5DgueggsDkGfm1PBA.png)
 
-The tutorial how to convert rectangles into keypoints is [here](https://medium.com/@alexppppp/how-to-annotate-keypoints-using-roboflow-9bc2aa8915cd)
+Tutorial how to make rectangle annontations in Roboflow and convert them into keypoints is [here](https://medium.com/@alexppppp/how-to-annotate-keypoints-using-roboflow-9bc2aa8915cd)
 
-Also, the tutorial how to train a custom keypoint detection model is [here](https://medium.com/@alexppppp/how-to-train-a-custom-keypoint-detection-model-with-pytorch-d9af90e111da)
+Tutorial how to train a custom keypoint detection model is [here](https://medium.com/@alexppppp/how-to-train-a-custom-keypoint-detection-model-with-pytorch-d9af90e111da)
 
 ---
 
