@@ -8,9 +8,9 @@ However, object detection models, like Yolo5, can just identify the coordinates 
 
 Such information can be provided by coordinates of the object's keypoints.
 
-I was interested to get to know how to trainin a keypoint detection model, Keypoint RCNN, on a custom dataset. For that, I needed to create a simple dataset with objects related to one class, where each object was annotated with 2 keypoints, which would be enough to identify its orientation in space.
+I was interested to get to know how to train a keypoint detection model, Keypoint RCNN, on a custom dataset. For that, I needed to create a simple dataset with objects related to one class, where each object was annotated with 2 keypoints, which would be enough to identify its orientation in space.
 
-Glue tube was the ideal candidate to become such object. So, I've made 134 photos and annotated them in [Roboflow](https://roboflow.com/).
+Glue tube was the ideal candidate to become such an object. So, I've made 134 photos and annotated them in [Roboflow](https://roboflow.com/).
 
 Roboflow doesn't provide keypoint annotation functionality, but this task can be easily done by annotating keypoints with small rectangles.
 
@@ -22,7 +22,7 @@ into these annotations
 
 ![](https://miro.medium.com/max/3600/1*kGvS_5DgueggsDkGfm1PBA.png)
 
-Tutorial on how to make rectangle annontations in Roboflow and convert them into keypoints is [here](https://medium.com/@alexppppp/how-to-annotate-keypoints-using-roboflow-9bc2aa8915cd)
+Tutorial on how to create rectangle annontations in Roboflow and convert them into keypoints is [here](https://medium.com/@alexppppp/how-to-annotate-keypoints-using-roboflow-9bc2aa8915cd)
 
 Tutorial on how to train a custom keypoint detection model is [here](https://medium.com/@alexppppp/how-to-train-a-custom-keypoint-detection-model-with-pytorch-d9af90e111da)
 
