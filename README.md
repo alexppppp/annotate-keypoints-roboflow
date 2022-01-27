@@ -8,7 +8,7 @@ However, object detection models, like Yolo5, can just identify the coordinates 
 
 Such information can be provided by coordinates of the object's keypoints.
 
-I was interested to get to know how to train a keypoint detection model, Keypoint RCNN, on a custom dataset. For that, I needed to create a simple dataset with objects related to one class, where each object was annotated with 2 keypoints, which would be enough to identify its orientation in space.
+I was interested to get to know how to train a keypoint detection model, Keypoint RCNN, on a custom dataset. For that, I needed to create a simple dataset with objects related to one class, where each object would be annotated with no more than 2 keypoints, which would be enough to identify its orientation in space.
 
 Glue tube was the ideal candidate to become such an object. So, I've made 134 photos and annotated them in [Roboflow](https://roboflow.com/).
 
